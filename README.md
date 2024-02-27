@@ -25,7 +25,7 @@ This project is licensed under the MIT license.
 For more information about the license, click [here](https://opensource.org/licenses/MIT).
 
 ## Contributing
-Please see the [Github Documents]() regarding this topic. 
+Please see the [Github Documents](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) regarding this topic. 
 
 ## Tests
 There is not an included test. 
