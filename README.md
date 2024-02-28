@@ -10,6 +10,7 @@ This is an application designed to use Insomnia. In this case, it creates and se
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Sources](#sources)
 
 ## Installation
 Clone this repository like you would any other, and install the dependencies outlined as instructed at the beginning of this video (dotenv, express, mysql2, sequelize, and nodemon).
@@ -36,3 +37,6 @@ There is not an included test.
 If you have any questions, feel free to reach out to me:
 - Email: Joshuahale829@gmail.com
 - GitHub: [Sulxy](https://github.com/Sulxy)
+
+## Sources
+ThomasCalle's youtube channel, and Angela and Gabe from class, who were available when I needed it -- but authored no code. :)
