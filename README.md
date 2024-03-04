@@ -18,7 +18,7 @@ Clone this repository like you would any other, and install the dependencies out
 ## Usage
 Once you have the repository cloned and the dependencies installed: Open your command line, navigate to the correct folder (the one that contains server.js), and type "node server.js". When this command is run, you should see "App listening on Port 3001!" appear in your terminal. From here, we will be using Insomnia, as you will see in the video. 
 
-[Youtube Video](https://youtu.be/Pws97uH-zEQ)
+[Youtube Video](https://www.youtube.com/watch?v=Pws97uH-zEQ)
 
 ## License
 This project is licensed under the MIT license.
